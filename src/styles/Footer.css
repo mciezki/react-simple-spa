@@ -1,0 +1,9 @@
+footer span {
+    color: red;
+}
+
+footer p {
+    display: inline;
+    margin: 0 10px;
+    font-size: 14px;
+}
